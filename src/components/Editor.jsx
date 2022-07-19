@@ -63,7 +63,7 @@ class Editor extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      theme: "tomorrow_night_blue",
+      theme: "eclipse",
       fontSize: 16,
     };
     let i = 0;
